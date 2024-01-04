@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it using these metadata.
+title: Causal Relation Extraction from Text Data
+authors:
+  - family-names: Wang
+    given-names: Tiancheng
+    orcid: "https://orcid.org/0009-0001-2465-5015"
+version: 0.0l1
+date-released: "2024-01-03"
