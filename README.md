@@ -13,3 +13,8 @@ Please see `./main.py` for details of each function.
 ### Test Datasets Results ###
 
 Please see `./test/`
+
+
+### Citation ###
+
+Please cite the repo when you use the code or data.
